@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-image {
+    height: 60px;
+    width: 80px;
+}
+
+#navItem1
+{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2
+{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3
+{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4
+{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.bannar-section-gg-container
+{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png);
+    height:90vh;
+    background-size: cover;
+
+}
+
+.banner-header
+{
+    color: aliceblue;
+    font-family: Roboto;
+    font-size: 48px;
+    
+}
+
+.banner-description
+{
+    color: #b2c1d6;
+    font-family: Roboto;
+    font-size: 24px;
+}
+
+.view-menu-button
+{
+    border-radius: 10px;
+    background-color: #d0b200;
+    border: 0px;
+    color:azure;
+    height: 40px;
+    width: 100px;
+}
+.order-now-button
+{
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px;
+    color:azure;
+    height: 40px;
+    width: 100px;
+    border-color: #d0b200;
+    border-style: solid;
+
+}
+
+.wcu-container
+{
+    background-color: #f9fbfe
+}
+.wcu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.wcu-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.wcu-card
+{
+    background-color:white;
+    border-radius: 20px;
+    border:1px;
+    border-style: solid;
+    text-align: center;
+    border-color: #e5eaf4;
+}
+
+.wcu-card-image {
+  width: 87px;
+  height: 90px;
+}
+
+.wcu-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.wcu-card-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.offers {
+  color: #323f4b;
+  font-style: italic;
+  font-weight: 600;
+}
+
+
+.explore-menu-section
+{
+    background-color: #f9fbfe;
+}
+.menu-card
+{
+    background-color: white;
+    border-radius: 16px;
+    border-color:#e5eaf4;
+    border-style: solid;
+    font-family: Roboto;
+}
+.menu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.menu-image
+{
+    width: 100%;
+    border-radius: 20px;
+}
+.menu-view-more
+{
+    color: #d0b200;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.menu-card-title
+{
+     color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+
+
+.healthy-food-section {
+  background-color: #f9fbfe;
+}
+.healthy-food-section-img {
+  width: 270px;
+}
+.healthy-food-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.healthy-food-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.custom-button {
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.delivery-and-payment-section
+{
+    background-color: #f9fbfe;
+}
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+
+  .thanking-customers-section
+{
+    background-color: #d0b2001a;
+}
+
+.follow-us-icon-container
+{
+      background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.icon {
+  color: #d0b200;
+  font-size: 35px;
+}
+
+.follow-us-heading
+{
+    text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
